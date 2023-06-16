@@ -44,6 +44,15 @@ namespace LineProblem
             else
             {
                 Console.WriteLine("Both The Line are not Equal");
+
+                if (length1 > length2)
+                {
+                    Console.WriteLine("Line1 greter than line 2");
+                }
+                else
+                {
+                    Console.WriteLine("Line2 Greater than Line1");
+                }
             }
 
 
