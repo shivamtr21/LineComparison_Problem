@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\LineComparision\LineProblem\LineProblem\bin\Debug\net6.0\LineProblem.exe
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\LineComparision\LineProblem\LineProblem\bin\Debug\net6.0\LineProblem.deps.json
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\LineComparision\LineProblem\LineProblem\bin\Debug\net6.0\LineProblem.runtimeconfig.json
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\LineComparision\LineProblem\LineProblem\bin\Debug\net6.0\LineProblem.dll
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\LineComparision\LineProblem\LineProblem\bin\Debug\net6.0\LineProblem.pdb
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\LineComparision\LineProblem\LineProblem\obj\Debug\net6.0\LineProblem.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\LineComparision\LineProblem\LineProblem\obj\Debug\net6.0\LineProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\LineComparision\LineProblem\LineProblem\obj\Debug\net6.0\LineProblem.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\LineComparision\LineProblem\LineProblem\obj\Debug\net6.0\LineProblem.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\LineComparision\LineProblem\LineProblem\obj\Debug\net6.0\LineProblem.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\LineComparision\LineProblem\LineProblem\obj\Debug\net6.0\LineProblem.dll
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\LineComparision\LineProblem\LineProblem\obj\Debug\net6.0\refint\LineProblem.dll
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\LineComparision\LineProblem\LineProblem\obj\Debug\net6.0\LineProblem.pdb
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\LineComparision\LineProblem\LineProblem\obj\Debug\net6.0\LineProblem.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\LineComparision\LineProblem\LineProblem\obj\Debug\net6.0\ref\LineProblem.dll
